@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "React JS"
+  },
+  {
+    "id": 2,
+    "name": "Node JS"
+  },
+  {
+    "id": 3,
+    "name": "Angular JS"
+  },
+  {
+    "id": 4,
+    "name": "Svelt JS"
+  },
+  {
+    "id": 5,
+    "name": "React Native JS"
+  },
+  {
+    "id": 6,
+    "name": "Next JS"
+  },
+  {
+    "id": 7,
+    "name": "Nuxt JS"
+  },
+  {
+    "id": 8,
+    "name": "Vue JS"
+  },
+  {
+    "id": 9,
+    "name": "Laravel"
+  },
+  {
+    "id": 10,
+    "name": "Mysql"
+  }
+]
